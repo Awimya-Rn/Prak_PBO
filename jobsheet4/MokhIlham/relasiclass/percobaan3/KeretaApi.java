@@ -56,7 +56,9 @@ public class KeretaApi {
     info += "Nama: " + this.nama + "\n";
     info += "Kelas: " + this.kelas + "\n";
     info += "Masinis: \n" + this.masinis.info() + "\n";
-    info += "Asisten: \n" + this.asisten.info() + "\n";
+    if (this.asisten != null) {
+      info += "Asisten: \n" + this.asisten.info() + "\n";
+    }
     return info;
   }
 }
