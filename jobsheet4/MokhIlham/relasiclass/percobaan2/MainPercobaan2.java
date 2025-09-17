@@ -14,5 +14,6 @@ public class MainPercobaan2 {
     p.setSopir(s);
     p.setHari(2);
     System.out.println("Biaya Total = " + p.hitungBiayaTotal());
+    System.out.println(p.getMobil().getMerk());
   }
 }
