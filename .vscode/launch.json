@@ -1,0 +1,133 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },  
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "JobSheet6.HewanOOP1.Main",
+      "projectName": "Prak_PBO_6d7162b6"
+    },
+    {
+      "type": "java",
+      "name": "GameTest",
+      "request": "launch",
+      "mainClass": "Kuis1.GameTest",
+      "projectName": "Prak_PBO_6d7162b6"
+    },
+    {
+      "type": "java",
+      "name": "ObjekDemo",
+      "request": "launch",
+      "mainClass": "ObjekDemo.ObjekDemo",
+      "projectName": "Prak_PBO_6d7162b6"
+    },
+    {
+      "type": "java",
+      "name": "SepedaDemo",
+      "request": "launch",
+      "mainClass": "SepedaDemo.SepedaDemo",
+      "projectName": "Prak_PBO_6d7162b6"
+    },
+    {
+      "type": "java",
+      "name": "TestMahasiswa",
+      "request": "launch",
+      "mainClass": "jobsheet2.percobaan2.TestMahasiswa",
+      "projectName": "Prak_PBO_6d7162b6"
+    },
+    {
+      "type": "java",
+      "name": "TestBarang",
+      "request": "launch",
+      "mainClass": "jobsheet2.percobaan3.TestBarang",
+      "projectName": "Prak_PBO_6d7162b6"
+    },
+    {
+      "type": "java",
+      "name": "Main(1)",
+      "request": "launch",
+      "mainClass": "jobsheet2.tugas.Main",
+      "projectName": "Prak_PBO_6d7162b6"
+    },
+    {
+      "type": "java",
+      "name": "KoperasiDemo",
+      "request": "launch",
+      "mainClass": "jobsheet3.KoperasiGetterSetter.KoperasiDemo",
+      "projectName": "Prak_PBO_6d7162b6"
+    },
+    {
+      "type": "java",
+      "name": "MotorDemo",
+      "request": "launch",
+      "mainClass": "jobsheet3.MotorEncapsulation.MotorDemo",
+      "projectName": "Prak_PBO_6d7162b6"
+    },
+    {
+      "type": "java",
+      "name": "EncapTest",
+      "request": "launch",
+      "mainClass": "jobsheet3.Tugas.EncapTest",
+      "projectName": "Prak_PBO_6d7162b6"
+    },
+    {
+      "type": "java",
+      "name": "TestKoperasi",
+      "request": "launch",
+      "mainClass": "jobsheet3.Tugas.TestKoperasi",
+      "projectName": "Prak_PBO_6d7162b6"
+    },
+    {
+      "type": "java",
+      "name": "main",
+      "request": "launch",
+      "mainClass": "jobsheet4.MokhIlham.relasiclass.Tugas.main",
+      "projectName": "Prak_PBO_6d7162b6"
+    },
+    {
+      "type": "java",
+      "name": "MainPercobaan1",
+      "request": "launch",
+      "mainClass": "jobsheet4.MokhIlham.relasiclass.percobaan1.MainPercobaan1",
+      "projectName": "Prak_PBO_6d7162b6"
+    },
+    {
+      "type": "java",
+      "name": "MainPercobaan2",
+      "request": "launch",
+      "mainClass": "jobsheet4.MokhIlham.relasiclass.percobaan2.MainPercobaan2",
+      "projectName": "Prak_PBO_6d7162b6"
+    },
+    {
+      "type": "java",
+      "name": "MainPercobaan3",
+      "request": "launch",
+      "mainClass": "jobsheet4.MokhIlham.relasiclass.percobaan3.MainPercobaan3",
+      "projectName": "Prak_PBO_6d7162b6"
+    },
+    {
+      "type": "java",
+      "name": "MainPertanyaan",
+      "request": "launch",
+      "mainClass": "jobsheet4.MokhIlham.relasiclass.percobaan3.MainPertanyaan",
+      "projectName": "Prak_PBO_6d7162b6"
+    },
+    {
+      "type": "java",
+      "name": "MainPercobaan4",
+      "request": "launch",
+      "mainClass": "jobsheet4.MokhIlham.relasiclass.percobaan4.MainPercobaan4",
+      "projectName": "Prak_PBO_6d7162b6"
+    }
+  ]
+}
