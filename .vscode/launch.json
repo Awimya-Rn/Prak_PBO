@@ -8,6 +8,13 @@
       "type": "java",
       "name": "Main",
       "request": "launch",
+      "mainClass": "JobSheet6.HewanOOP4.Main",
+      "projectName": "Prak_PBO_6d7162b6"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
       "mainClass": "JobSheet6.HewanOOP3.Main",
       "projectName": "Prak_PBO_6d7162b6"
     },
