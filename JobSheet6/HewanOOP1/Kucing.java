@@ -5,6 +5,10 @@ class Kucing extends Hewan{
     super(nama);
   }
 
+  @Override
+  void bersuara(){
+    System.out.println("Meong!");
+  }
   void mengeong(){
     System.out.println("Meong!");
   }

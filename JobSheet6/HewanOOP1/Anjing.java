@@ -5,7 +5,11 @@ class Anjing extends Hewan{
     super(nama);
   }
 
-  void menggonggong(){
+  @Override
+  void bersuara() {
     System.out.println("Guk!");
+  }
+  void menggonggong(){
+    System.out.println("Guk...Guuk!");
   }
 }
