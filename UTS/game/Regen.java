@@ -1,4 +1,3 @@
-// ...existing code...
 package UTS.game;
 
 public class Regen implements StatusEffect {
