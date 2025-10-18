@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "GameTest",
+      "request": "launch",
+      "mainClass": "UTS.game.GameTest",
+      "projectName": "Prak_PBO_6d7162b6"
+    },
+    {
+      "type": "java",
       "name": "Main",
       "request": "launch",
       "mainClass": "JobSheet6.KendaraanOOP.Main",
