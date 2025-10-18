@@ -1,4 +1,3 @@
-// ...existing code...
 package UTS.game;
 
 public class PiercingStrike implements Skill {
